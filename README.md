@@ -1,17 +1,17 @@
 # CURD-operation-contacts_list-using-MEAN-stack
 #steps to install
- #clone the project
- #goto location by cmd
- #npm install (make sure you have installed the nodejs and npm)
-#  -now you need to create a db in mongodb
-#    -db name as contactlist
-#    -fields: 
-#      *name
-#      *email
-#      *number
-#  -now run mongod and mongo.
-#  -node server.js
-#  -browse in chrome/mozilla localhost:3000
+  -clone the project
+  -goto location by cmd
+  -npm install (make sure you have installed the nodejs and npm)
+  -now you need to create a db in mongodb
+    -db name as contactlist
+    -fields: 
+      *name
+      *email
+      *number
+  -now run mongod and mongo.
+  -node server.js
+  -browse in chrome/mozilla localhost:3000
   
-#components used
+ #components used
   -node,express,mongodb,angularjs(MEAN)
