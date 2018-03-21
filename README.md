@@ -2,7 +2,7 @@
 #steps to install
   -clone the project
   -goto location by cmd
-  -npm install
+  -npm install (make sure you have installed the nodejs and npm)
   -now you need to create a db in mongodb
     -db name as contactlist
     -fields: 
